@@ -1,4 +1,4 @@
-Difference Between <div>, <article> & <section> tags?
+Difference Between div, article & section tags?
   
 <section> tag ▶ <section> means that the content inside is grouped (i.e. relates to a single theme), and should appear as an entry in an outline of the page.
 <div> tag ▶ <div> does not convey any meaning, aside from any found in its class, lang and title attributes.
